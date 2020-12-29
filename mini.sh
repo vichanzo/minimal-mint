@@ -2,13 +2,9 @@
  
 sudo apt purge --ignore-missing -y \
 thunderbird \
-transmission-gtk \
 gnome-todo \
-baobab \
 rhythmbox \
 cheese \
-vino \
-shotwell \
 totem \
 usb-creator-gtk \
 deja-dup \
@@ -117,10 +113,6 @@ python3-uno \
 rhythmbox-data \
 rhythmbox-plugin-alternative-toolbar \
 rhythmbox-plugins \
-remmina-common \
-remmina-plugin-rdp \
-remmina-plugin-secret \
-remmina-plugin-vnc \
 duplicity \
 seahorse-daemon \
 shotwell-common \
